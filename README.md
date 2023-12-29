@@ -1,7 +1,5 @@
 # Supermarket-Sales-Prediction
 
-
-
 Project Description:
 The "Supermarket Sales Prediction" project is a comprehensive machine learning initiative that aims to forecast sales based on a diverse set of features. The dataset encompasses crucial details such as Invoice ID, Branch, City, Customer type, Gender, Product line, Unit price, Quantity, Tax 5%, Total, Date, Time, Payment method, COGS (Cost of Goods Sold), Gross Margin Percentage, Gross Income, and Customer Rating.
 
